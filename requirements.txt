@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+beautifulsoup4
+requests
+pypdf
+python-docx
+sentence-transformers
+rank-bm25
+openai
+ragas
